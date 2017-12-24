@@ -1,23 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <exercises>
-    <exercise>
-        <id>0multitrainer-warmup</id>
-        <time>249</time>
-        <pause>1</pause>
-        <iterations>1</iterations>
-        <rest>50</rest>
-        <names>
-            <name>warmu up!</name>
-            <name locale="cs">zahrati</name>
-        </names>
-        <descriptions>
-            <description>
-                5-10minut svihadlo, vesla, kolo, multitrainer zahrivaci cviky atd...
-            </description>
-            <description locale="cs">prohodit a prelozit</description>            
-        </descriptions>
-    </exercise>
+    <exercises-set>
+        <exercise>
+            <id>0multitrainerWarmup</id>
+            <names>
+                <name>warm up!</name>
+                <name locale="cs">zahrati</name>
+            </names>
+            <descriptions>
+                <description>
+                    5-10minut svihadlo, vesla, kolo, multitrainer zahrivaci cviky atd...
+                </description>
+                <description locale="cs">prohodit a prelozit</description>            
+            </descriptions>
+            <defaults>
+                <time>249</time>
+                <pause>1</pause>
+                <iterations>1</iterations>
+                <rest>50</rest>
+            </defaults>
+            <images>
+                <image>multiwarmup.jpg</image>
+            </images>
+        </exercise>
+    </exercises-set>
     <exercises-set>
         <set-defaults>
             <time>30</time>
