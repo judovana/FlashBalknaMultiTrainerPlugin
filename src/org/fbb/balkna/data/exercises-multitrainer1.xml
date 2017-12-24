@@ -1,0 +1,314 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<exercises>
+    <exercise>
+        <id>0multitrainer-warmup</id>
+        <time>249</time>
+        <pause>1</pause>
+        <iterations>1</iterations>
+        <rest>50</rest>
+        <names>
+            <name>warmu up!</name>
+            <name locale="cs">zahrati</name>
+        </names>
+        <descriptions>
+            <description>
+                5-10minut svihadlo, vesla, kolo, multitrainer zahrivaci cviky atd...
+            </description>
+            <description locale="cs">prohodit a prelozit</description>            
+        </descriptions>
+    </exercise>
+    <exercises-set>
+        <set-defaults>
+            <time>30</time>
+            <pause>50</pause>
+            <iterations>1</iterations>
+            <rest>50</rest>
+        </set-defaults>
+        <exercise>
+            <id>1drep1</id>
+            <names>
+                <name>drep na jedne noze - jedna noha</name>
+                <name locale="cs">drep na jedne noze - jenda noha</name>
+            </names>
+            <images>
+                <image>drep1.jpg</image>
+                <image>drep2.jpg</image>
+            </images>
+            <descriptions>
+                <description>
+                    stredni delka;
+                    Start: celem k multitraneru, jemne uhchopit
+                    Start: jendu nohu prednozit, najit vhodny uhel, rozlozit vahu  rovnomerme na stred stojici nohy
+                    Prubeh: kostrc tlacte dolu a panev drzte nizko, hyzde doadu, tak dlouho dokud neni zvedla noha rovnobezne s podlahou
+                    Prubeh: prednozena noha zustava ve vodorovne pozice nad zemi
+                    Prubeh: nedotykat patou podlahy
+                    Prubeh: pri navratu do startu, minimalizujte pouziti rukou
+                </description>
+                <description locale="cs">prohodit a prelozit</description>            
+            </descriptions>
+        </exercise>
+        <exercise>
+            <id>1drep2</id>
+            <names>
+                <name>drep na jedne noze - druha noha</name>
+                <name locale="cs">drep na jedne noze - druha noha</name>
+            </names>
+            <images>
+                <image>drep1.jpg</image>
+                <image>drep2.jpg</image>
+            </images>
+            <descriptions>
+                <description>
+                    stredni delka;
+                    Start: celem k multitraneru, jemne uhchopit
+                    Start: jendu nohu prednozit, najit vhodny uhel, rozlozit vahu  rovnomerme na stred stojici nohy
+                    Prubeh: kostrc tlacte dolu a panev drzte nizko, hyzde doadu, tak dlouho dokud neni zvedla noha rovnobezne s podlahou
+                    Prubeh: prednozena noha zustava ve vodorovne pozice nad zemi
+                    Prubeh: nedotykat patou podlahy
+                    Prubeh: pri navratu do startu, minimalizujte pouziti rukou
+                </description>
+                <description locale="cs">prohodit a prelozit</description>            
+            </descriptions>
+        </exercise>
+        
+        <exercise>
+            <id>2vypad1</id>
+            <names>
+                <name>balancni vypad - jedna noha</name>
+                <name locale="cs">drep na jedne noze - jenda noha</name>
+            </names>
+            <images>
+                <image>vypad1.jpg</image>
+                <image>vypad2.jpg</image>
+            </images>
+            <descriptions>
+                <description>
+                    stredni delka;
+       
+                </description>
+                <description locale="cs">prohodit a prelozit</description>            
+            </descriptions>
+        </exercise>
+        <exercise>
+            <id>2vypad2</id>
+            <names>
+                <name>balancni vypad - druha noha</name>
+                <name locale="cs">balancni vypad - druha noha</name>
+            </names>
+            <images>
+                <image>vypad1.jpg</image>
+                <image>vypad2.jpg</image>
+            </images>
+            <descriptions>
+                <description>
+                    stredni delka;
+
+                </description>
+                <description locale="cs">prohodit a prelozit</description>            
+            </descriptions>
+        </exercise>
+        <exercise>
+            <id>3zanoz</id>
+            <names>
+                <name>zanozovani</name>
+                <name locale="cs">zanozovani</name>
+            </names>
+            <images>
+                <image>zanoz1.jpg</image>
+                <image>zanoz2.jpg</image>
+            </images>
+            <descriptions>
+                <description>
+                    multitrainer cca 30cm od zeme;
+
+                </description>
+                <description locale="cs">prohodit a prelozit</description>            
+            </descriptions>
+        </exercise>
+        <exercise>
+            <id>4roznoz</id>
+            <names>
+                <name>roznozovani</name>
+                <name locale="cs">roznozovani</name>
+            </names>
+            <images>
+                <image>roznoz1.jpg</image>
+                <image>roznoz2.jpg</image>
+            </images>
+            <descriptions>
+                <description>
+                    multitrainer cca 30-35cm od zeme;
+
+                </description>
+                <description locale="cs">prohodit a prelozit</description>            
+            </descriptions>
+        </exercise>
+        <exercise>
+            <id>5klik</id>
+            <names>
+                <name>hrudni tlak</name>
+                <name locale="cs">hrudni tlak</name>
+            </names>
+            <images>
+                <image>klik1.jpg</image>
+                <image>klik2.jpg</image>
+            </images>
+            <descriptions>
+                <description>
+                    stredni delka;
+
+                </description>
+                <description locale="cs">prohodit a prelozit</description>            
+            </descriptions>
+        </exercise>
+        <exercise>
+            <id>6pritah</id>
+            <names>
+                <name>pritah</name>
+                <name locale="cs">pritah</name>
+            </names>
+            <images>
+                <image>pritah1.jpg</image>
+                <image>pritah2.jpg</image>
+            </images>
+            <descriptions>
+                <description>
+                    stredni delka;
+
+                </description>
+                <description locale="cs">prohodit a prelozit</description>            
+            </descriptions>
+        </exercise>
+        <exercise>
+            <id>7upaz</id>
+            <names>
+                <name>ramena - upazovani</name>
+                <name locale="cs">ramena - upazovani</name>
+            </names>
+            <images>
+                <image>upaz1.jpg</image>
+                <image>upaz2.jpg</image>
+            </images>
+            <descriptions>
+                <description>
+                    stredni delka;
+
+                </description>
+                <description locale="cs">prohodit a prelozit</description>            
+            </descriptions>
+        </exercise>
+        <exercise>
+            <id>8biceps</id>
+            <names>
+                <name>bicepsove zdvihy</name>
+                <name locale="cs">bicepsove zdvihy</name>
+            </names>
+            <images>
+                <image>biceps1.jpg</image>
+                <image>biceps2.jpg</image>
+            </images>
+            <descriptions>
+                <description>
+                    stredni delka;
+
+                </description>
+                <description locale="cs">prohodit a prelozit</description>            
+            </descriptions>
+        </exercise>
+        <exercise>
+            <id>9triceps</id>
+            <names>
+                <name>tricepsove tlaky</name>
+                <name locale="cs">tricepsove tlaky</name>
+            </names>
+            <images>
+                <image>triceps1.jpg</image>
+                <image>triceps2.jpg</image>
+            </images>
+            <descriptions>
+                <description>
+                    stredni delka;
+
+                </description>
+                <description locale="cs">prohodit a prelozit</description>            
+            </descriptions>
+        </exercise>
+        <exercise>
+            <id>10extenze</id>
+            <names>
+                <name>extenze boku vleze</name>
+                <name locale="cs">extenze boku vleze</name>
+            </names>
+            <images>
+                <image>extenze1.jpg</image>
+                <image>extenze2.jpg</image>
+            </images>
+            <descriptions>
+                <description>
+                    multitrainer cca 30cm od zeme;
+
+                </description>
+                <description locale="cs">prohodit a prelozit</description>            
+            </descriptions>
+        </exercise>
+        <exercise>
+            <id>11prednos1</id>
+            <names>
+                <name>zdvihy nohou vleze - jedna strana </name>
+                <name locale="cs">zdvihy nohou vleze - jedna strana </name>
+            </names>
+            <images>
+                <image>prednos1.jpg</image>
+                <image>prednos2.jpg</image>
+            </images>
+            <descriptions>
+                <description>
+                    multitrainer cca 30cm od zeme;
+                    Prubeh: diagonalne, obe zaraz,  na stanu dolu
+                    Prubeh: pohybujte se stejnou rychlosti
+                    Prubeh: zastavte v okamziku kdy citite z ebyste namahali pater
+                </description>
+                <description locale="cs">prohodit a prelozit</description>            
+            </descriptions>
+        </exercise>
+        <exercise>
+            <id>11prednos2</id>
+            <names>
+                <name>zdvihy nohou vleze - druha strana </name>
+                <name locale="cs">zdvihy nohou vleze - druha strana </name>
+            </names>
+            <images>
+                <image>prednos1.jpg</image>
+                <image>prednos2.jpg</image>
+            </images>
+            <descriptions>
+                <description>
+                    multitrainer cca 30cm od zeme;
+                    Prubeh: diagonalne, obe zaraz,  na stanu dolu
+                    Prubeh: pohybujte se stejnou rychlosti
+                    Prubeh: zastavte v okamziku kdy citite z ebyste namahali pater
+                </description>
+                <description locale="cs">prohodit a prelozit</description>            
+            </descriptions>
+        </exercise>
+        <exercise>
+            <id>12sedylehy</id>
+            <names>
+                <name>sedy lehy v zavesu</name>
+                <name locale="cs">sedy lehy v zavesu</name>
+            </names>
+            <images>
+                <image>sedleh1.jpg</image>
+                <image>sedleh2.jpg</image>
+            </images>
+            <descriptions>
+                <description>
+                    multitrainer cca 30cm od zeme;
+
+                </description>
+                <description locale="cs">prohodit a prelozit</description>            
+            </descriptions>
+        </exercise>
+    </exercises-set>
+</exercises>

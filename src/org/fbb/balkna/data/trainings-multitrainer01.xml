@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<trainings>
+    <training>
+        <id>mutitrainer0</id>
+        <names>
+            <name>merco multitrainer begginers + 0</name>
+            <name locale="cs">merco multitrainer zacatecnici + 0</name>
+        </names>
+        <descriptions>
+            <description>
+
+            </description>
+            <description locale="cs">
+                todo prelozit a prohodit
+            </description>            
+        </descriptions>
+        <images>
+            <image>esportshoptitle.jpg</image>
+        </images>
+        <exercises>
+            <!--            <exercise>
+                <time>249</time>
+                <pause>1</pause>
+                <iterations>1</iterations>
+                <rest>50</rest>
+                <id>0multitrainer-warmup</id>
+            </exercise>    -->
+            <exercises-set count="1">
+                <overrides>
+                    <time>30</time>
+                    <pause>50</pause>
+                    <iterations>1</iterations>
+                    <rest>50</rest>
+                </overrides>
+                <exercise>
+                    <id>1drep1</id>
+                </exercise>    
+                <exercise>
+                    <id>1drep2</id>
+                </exercise> 
+                <exercise>
+                    <id>2vypad1</id>
+                </exercise> 
+                <exercise>
+                    <id>2vypad2</id>
+                </exercise> 
+                <exercise>
+                    <id>3zanoz</id>
+                </exercise> 
+                <exercise>
+                    <id>4roznoz</id>
+                </exercise> 
+                <exercise>
+                    <id>5klik</id>
+                </exercise> 
+                <exercise>
+                    <id>6pritah</id>
+                </exercise> 
+                <exercise>
+                    <id>7upaz</id>
+                </exercise> 
+                <exercise>
+                    <id>8biceps</id>
+                </exercise> 
+                <exercise>
+                    <id>9triceps</id>
+                </exercise> 
+                <exercise>
+                    <id>10extenze</id>
+                </exercise> 
+                <exercise>
+                    <id>11prednos1</id>
+                </exercise> 
+                <exercise>
+                    <id>11prednos2</id>
+                </exercise> 
+                <exercise>
+                    <id>12sedylehy</id>
+                </exercise> 
+            </exercises-set>
+        </exercises>    
+    </training>
+</trainings>
