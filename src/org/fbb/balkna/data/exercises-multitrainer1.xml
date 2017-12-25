@@ -12,7 +12,7 @@
                 <description>
                     5-10minut svihadlo, vesla, kolo, multitrainer zahrivaci cviky atd...
                 </description>
-                <description locale="cs">prohodit a prelozit</description>            
+                <description locale="cs"> 5-10minut svihadlo, vesla, kolo, multitrainer zahrivaci cviky atd...</description>            
             </descriptions>
             <defaults>
                 <time>249</time>
@@ -44,15 +44,23 @@
             </images>
             <descriptions>
                 <description>
-                    stredni delka;
+                    stredni delka; cela spodni cast tela s duraazem na natahovac kycli
                     Start: celem k multitraneru, jemne uhchopit
                     Start: jendu nohu prednozit, najit vhodny uhel, rozlozit vahu  rovnomerme na stred stojici nohy
-                    Prubeh: kostrc tlacte dolu a panev drzte nizko, hyzde doadu, tak dlouho dokud neni zvedla noha rovnobezne s podlahou
+                    Prubeh: kostrc tlacte dolu a panev drzte nizko, hyzde dozadu, tak dlouho dokud neni zvedla noha rovnobezne s podlahou
                     Prubeh: prednozena noha zustava ve vodorovne pozice nad zemi
                     Prubeh: nedotykat patou podlahy
                     Prubeh: pri navratu do startu, minimalizujte pouziti rukou
                 </description>
-                <description locale="cs">prohodit a prelozit</description>            
+                <description locale="cs">
+                    stredni delka; cela spodni cast tela s duraazem na natahovac kycli
+                    Start: celem k multitraneru, jemne uhchopit
+                    Start: jendu nohu prednozit, najit vhodny uhel, rozlozit vahu  rovnomerme na stred stojici nohy
+                    Prubeh: kostrc tlacte dolu a panev drzte nizko, hyzde dozadu, tak dlouho dokud neni zvedla noha rovnobezne s podlahou
+                    Prubeh: prednozena noha zustava ve vodorovne pozice nad zemi
+                    Prubeh: nedotykat patou podlahy
+                    Prubeh: pri navratu do startu, minimalizujte pouziti rukou
+                </description>            
             </descriptions>
         </exercise>
         <exercise>
@@ -67,15 +75,23 @@
             </images>
             <descriptions>
                 <description>
-                    stredni delka;
+                    stredni delka; cela spodni cast tela s duraazem na natahovac kycli
                     Start: celem k multitraneru, jemne uhchopit
                     Start: jendu nohu prednozit, najit vhodny uhel, rozlozit vahu  rovnomerme na stred stojici nohy
-                    Prubeh: kostrc tlacte dolu a panev drzte nizko, hyzde doadu, tak dlouho dokud neni zvedla noha rovnobezne s podlahou
+                    Prubeh: kostrc tlacte dolu a panev drzte nizko, hyzde dozadu, tak dlouho dokud neni zvedla noha rovnobezne s podlahou
                     Prubeh: prednozena noha zustava ve vodorovne pozice nad zemi
                     Prubeh: nedotykat patou podlahy
                     Prubeh: pri navratu do startu, minimalizujte pouziti rukou
                 </description>
-                <description locale="cs">prohodit a prelozit</description>            
+                <description locale="cs">
+                    stredni delka; cela spodni cast tela s duraazem na natahovac kycli
+                    Start: celem k multitraneru, jemne uhchopit
+                    Start: jendu nohu prednozit, najit vhodny uhel, rozlozit vahu  rovnomerme na stred stojici nohy
+                    Prubeh: kostrc tlacte dolu a panev drzte nizko, hyzde dozadu, tak dlouho dokud neni zvedla noha rovnobezne s podlahou
+                    Prubeh: prednozena noha zustava ve vodorovne pozice nad zemi
+                    Prubeh: nedotykat patou podlahy
+                    Prubeh: pri navratu do startu, minimalizujte pouziti rukou
+                </description>            
             </descriptions>
         </exercise>
         
@@ -91,10 +107,22 @@
             </images>
             <descriptions>
                 <description>
-                    stredni delka;
-       
+                    stredni delka; celkova sila a kordinace jedne nohy
+                    Start: celem k TRX a jemen uchopte
+                    Start: pokrcte jednu nohu v koleni a zanote do praveho uhlu. vahu tela rozlozte rovnomerne do stojici nohy 
+                    Prubeh: predni sotnou nohu pokrcujte v okleni; vaha tela s epresouva vice dozadu; zadni noha se temer nedotyka zeme
+                    Prubeh: patu stojne nohy udrzujte stale na zemi. Tahem se vratte do pocatecni pozice
+                    Prubeh: zkuste nepouzivat pae pri navratu do ppocatecni pozice
+                    Prubeh: zadni nohu muzete oprit o zem a tim snizit obtiznost cviku       
                 </description>
-                <description locale="cs">prohodit a prelozit</description>            
+                <description locale="cs">
+                    stredni delka; celkova sila a kordinace jedne nohy
+                    Start: celem k TRX a jemen uchopte
+                    Start: pokrcte jednu nohu v koleni a zanote do praveho uhlu. vahu tela rozlozte rovnomerne do stojici nohy 
+                    Prubeh: predni sotnou nohu pokrcujte v okleni; vaha tela s epresouva vice dozadu; zadni noha se temer nedotyka zeme
+                    Prubeh: patu stojne nohy udrzujte stale na zemi. Tahem se vratte do pocatecni pozice
+                    Prubeh: zkuste nepouzivat pae pri navratu do ppocatecni pozice
+                    Prubeh: zadni nohu muzete oprit o zem a tim snizit obtiznost cviku  </description>            
             </descriptions>
         </exercise>
         <exercise>
@@ -109,10 +137,22 @@
             </images>
             <descriptions>
                 <description>
-                    stredni delka;
-
+                    stredni delka; celkova sila a kordinace jedne nohy
+                    Start: celem k TRX a jemen uchopte
+                    Start: pokrcte jednu nohu v koleni a zanote do praveho uhlu. vahu tela rozlozte rovnomerne do stojici nohy 
+                    Prubeh: predni sotnou nohu pokrcujte v okleni; vaha tela s epresouva vice dozadu; zadni noha se temer nedotyka zeme
+                    Prubeh: patu stojne nohy udrzujte stale na zemi. Tahem se vratte do pocatecni pozice
+                    Prubeh: zkuste nepouzivat pae pri navratu do ppocatecni pozice
+                    Prubeh: zadni nohu muzete oprit o zem a tim snizit obtiznost cviku       
                 </description>
-                <description locale="cs">prohodit a prelozit</description>            
+                <description locale="cs">
+                    stredni delka; celkova sila a kordinace jedne nohy
+                    Start: celem k TRX a jemen uchopte
+                    Start: pokrcte jednu nohu v koleni a zanote do praveho uhlu. vahu tela rozlozte rovnomerne do stojici nohy 
+                    Prubeh: predni sotnou nohu pokrcujte v okleni; vaha tela s epresouva vice dozadu; zadni noha se temer nedotyka zeme
+                    Prubeh: patu stojne nohy udrzujte stale na zemi. Tahem se vratte do pocatecni pozice
+                    Prubeh: zkuste nepouzivat pae pri navratu do ppocatecni pozice
+                    Prubeh: zadni nohu muzete oprit o zem a tim snizit obtiznost cviku  </description>            
             </descriptions>
         </exercise>
         <exercise>
@@ -127,10 +167,24 @@
             </images>
             <descriptions>
                 <description>
-                    multitrainer cca 30cm od zeme;
-
+                    multitrainer cca 30cm od zeme; podkoleni slachy a vyvazena sila nohou
+                    Start: obe paty zaveste do noznich avesu a zvednete boky od zeme. Prirozene se oprou o rucni uchyty.
+                    Start: vyhoi poloha tela je v opravdu ala sikma lavice
+                    Start: Chodidla zustavaji kolmo k holenim. telo rovne.
+                    Start: behem cviceni udrzujte nohy v siri boku
+                    Prubeh: zatlacte paty do zavesu a zvednete noky
+                    Prubeh: Pri zanozovani pritahujte paty k hyzdim
+                    Prubeh: Vrate se rizenym zpusobem do pocatecni pozice a pak cvik opakujte
                 </description>
-                <description locale="cs">prohodit a prelozit</description>            
+                <description locale="cs">
+                    multitrainer cca 30cm od zeme; podkoleni slachy a vyvazena sila nohou
+                    Start: obe paty zaveste do noznich avesu a zvednete boky od zeme. Prirozene se oprou o rucni uchyty.
+                    Start: vyhoi poloha tela je v opravdu ala sikma lavice
+                    Start: Chodidla zustavaji kolmo k holenim. telo rovne.
+                    Start: behem cviceni udrzujte nohy v siri boku
+                    Prubeh: zatlacte paty do zavesu a zvednete noky
+                    Prubeh: Pri zanozovani pritahujte paty k hyzdim
+                    Prubeh: Vrate se rizenym zpusobem do pocatecni pozice a pak cvik opakujte</description>            
             </descriptions>
         </exercise>
         <exercise>
@@ -145,10 +199,21 @@
             </images>
             <descriptions>
                 <description>
-                    multitrainer cca 30-35cm od zeme;
-
+                    multitrainer cca 30-35cm od zeme; aktivuje nathaovac zad a hyzdi pro zvyseni pevnostiu a sily kycli a zad.
+                    Start: lahnout na zada, obe nohy polozit do zavesu, a boky zvednout od zemne (prkno zaseO
+                    Start: holene a chodidla sviraji pravy uhel telo pevne a srovnane
+                    Prubeh: ruce muete mit polozene kolem tela, dlanemi dolu, nebo zkrizit na hrudi (pokrocila varianta)
+                    Prubeh: noh roztahujre co nejdale od sebe, telo zustava pevne a srovnane
+                    Prubeh: vrate se zpet do pocatecni pozice a opakovat
                 </description>
-                <description locale="cs">prohodit a prelozit</description>            
+                <description locale="cs">
+                    multitrainer cca 30-35cm od zeme; aktivuje nathaovac zad a hyzdi pro zvyseni pevnostiu a sily kycli a zad.
+                    Start: lahnout na zada, obe nohy polozit do zavesu, a boky zvednout od zemne (prkno zaseO
+                    Start: holene a chodidla sviraji pravy uhel telo pevne a srovnane
+                    Prubeh: ruce muete mit polozene kolem tela, dlanemi dolu, nebo zkrizit na hrudi (pokrocila varianta)
+                    Prubeh: noh roztahujre co nejdale od sebe, telo zustava pevne a srovnane
+                    Prubeh: vrate se zpet do pocatecni pozice a opakovat
+                </description>            
             </descriptions>
         </exercise>
         <exercise>
@@ -163,10 +228,23 @@
             </images>
             <descriptions>
                 <description>
-                    stredni delka;
-
+                    stredni delka; posilue horni cast tela, pevnost a rozseah ramen
+                    Start: vyrovnejte cele telo
+                    Start: chodidla na siri ramen
+                    Prubeh: napodobte pohyb jako pri klasickem kliku ( spodni cast hrudniku s epritahuje k rukam)
+                    Prubeh: spodni cast hrudniku nemi byt niz nez dlane
+                    Prubeh: pokud vam pasy odiraji ruce, umistete ruce vyse
+                    Prubeh: pokud je prilis obtizne udrzet rovnovahu aniz by vam pasy drhly o ruve, zmensete uhel tela a tim i odpor vahy
                 </description>
-                <description locale="cs">prohodit a prelozit</description>            
+                <description locale="cs">
+                    stredni delka; posilue horni cast tela, pevnost a rozseah ramen
+                    Start: vyrovnejte cele telo
+                    Start: chodidla na siri ramen
+                    Prubeh: napodobte pohyb jako pri klasickem kliku ( spodni cast hrudniku s epritahuje k rukam)
+                    Prubeh: spodni cast hrudniku nemi byt niz nez dlane
+                    Prubeh: pokud vam pasy odiraji ruce, umistete ruce vyse
+                    Prubeh: pokud je prilis obtizne udrzet rovnovahu aniz by vam pasy drhly o ruve, zmensete uhel tela a tim i odpor vahy
+                </description>            
             </descriptions>
         </exercise>
         <exercise>
@@ -181,10 +259,23 @@
             </images>
             <descriptions>
                 <description>
-                    stredni delka;
-
+                    stredni delka; zlepsuje tahovou silu horni casti tela.
+                    Start: predpazte ruce na urovni hrudniku, uchyty drzte v uhlu 45stupnu
+                    Start: hrudnik drzte co nejvyse - zpevnete a vyrovnejte cele telo
+                    Prubeh: Lopatky stahente k sobe a pritahnete hrudnik k drzadlum
+                    Prubeh: Lokty tlacte do strany, s rameny sviraji uhel 45 stupnu
+                    Prubeh: Cele telo je nbehem cviceni zpevnene a srovnane zapesti v neutralni pozici
+                    Prubeh: Nevytahujte boky nahoru abyste zjednodusili cvik
                 </description>
-                <description locale="cs">prohodit a prelozit</description>            
+                <description locale="cs">
+                    stredni delka; zlepsuje tahovou silu horni casti tela.
+                    Start: predpazte ruce na urovni hrudniku, uchyty drzte v uhlu 45stupnu
+                    Start: hrudnik drzte co nejvyse - zpevnete a vyrovnejte cele telo
+                    Prubeh: Lopatky stahente k sobe a pritahnete hrudnik k drzadlum
+                    Prubeh: Lokty tlacte do strany, s rameny sviraji uhel 45 stupnu
+                    Prubeh: Cele telo je nbehem cviceni zpevnene a srovnane zapesti v neutralni pozici
+                    Prubeh: Nevytahujte boky nahoru abyste zjednodusili cvik
+                </description>            
             </descriptions>
         </exercise>
         <exercise>
@@ -199,10 +290,23 @@
             </images>
             <descriptions>
                 <description>
-                    stredni delka;
-
+                    stredni delka (pisou 30cm na d zemi.. ale..); pomoci aktivace trapezu posiluje spravne drzeni tela
+                    Start: postavte se celem k TRX a rukama chytte  dzadla pod uhlem 45stupnu
+                    Start: Chodidla postavte do pozice T pro melci uhel
+                    Prubeh: mirne se nadzdvihnete rozpazte do  Y. Vaha se posouva dopredu
+                    Prubeh: zabrante rizenemu pohybu bou
+                    Prubeh: udrzujte konstantni napeti. Nepovolujte ruce v zavesu
+                    Prubeh: pomalu se vratte do pocatecni pozice
                 </description>
-                <description locale="cs">prohodit a prelozit</description>            
+                <description locale="cs">
+                    stredni delka (pisou 30cm na d zemi.. ale..); pomoci aktivace trapezu posiluje spravne drzeni tela
+                    Start: postavte se celem k TRX a rukama chytte  dzadla pod uhlem 45stupnu
+                    Start: Chodidla postavte do pozice T pro melci uhel
+                    Prubeh: mirne se nadzdvihnete rozpazte do  Y. Vaha se posouva dopredu
+                    Prubeh: zabrante rizenemu pohybu bou
+                    Prubeh: udrzujte konstantni napeti. Nepovolujte ruce v zavesu
+                    Prubeh: pomalu se vratte do pocatecni pozice
+                </description>            
             </descriptions>
         </exercise>
         <exercise>
@@ -217,10 +321,22 @@
             </images>
             <descriptions>
                 <description>
-                    stredni delka;
-
+                    stredni delka; pevnost celeho tela a bicepsove svaly
+                    Start: naklonte se dozadu, ruce natazene v siri ramen
+                    Start: lokty drzte vysoko
+                    Start: apojte stredni cast tela a dzte telo v jedne primce
+                    Prubeh: lokty drzte vysoko a pritahujte k drzadlum
+                    Prubeh: v nejvyssim bbode pohybu budou drzadla TRX v linii s celem
+                    Prubeh: horni cast ramen se nehybe , telo drzte porad v jedne primce
                 </description>
-                <description locale="cs">prohodit a prelozit</description>            
+                <description locale="cs">
+                    stredni delka; pevnost celeho tela a bicepsove svaly
+                    Start: naklonte se dozadu, ruce natazene v siri ramen
+                    Start: lokty drzte vysoko
+                    Start: apojte stredni cast tela a dzte telo v jedne primce
+                    Prubeh: lokty drzte vysoko a pritahujte k drzadlum
+                    Prubeh: v nejvyssim bbode pohybu budou drzadla TRX v linii s celem
+                    Prubeh: horni cast ramen se nehybe , telo drzte porad v jedne primce</description>            
             </descriptions>
         </exercise>
         <exercise>
@@ -235,10 +351,21 @@
             </images>
             <descriptions>
                 <description>
-                    stredni delka;
-
+                    stredni delka; pomoci aktivace cstredni casti tela seapruje posilovnai tricepsu
+                    Start: zpevnete hori cast pazi a sovnejte cele telo
+                    Start: behem celeho cviku minimalizujte pohyb horni casti
+                    Prubeh: cele telo pomalu klesa smerem dolu
+                    Prubeh: ruce v pravem uhlu, dlane rped celem
+                    Prubeh: pomalu zpet do pocatecni pozice
                 </description>
-                <description locale="cs">prohodit a prelozit</description>            
+                <description locale="cs">
+                    stredni delka; pomoci aktivace cstredni casti tela seapruje posilovnai tricepsu
+                    Start: zpevnete hori cast pazi a sovnejte cele telo
+                    Start: behem celeho cviku minimalizujte pohyb horni casti
+                    Prubeh: cele telo pomalu klesa smerem dolu
+                    Prubeh: ruce v pravem uhlu, dlane rped celem
+                    Prubeh: pomalu zpet do pocatecni pozice
+                </description>            
             </descriptions>
         </exercise>
         <exercise>
@@ -253,17 +380,26 @@
             </images>
             <descriptions>
                 <description>
-                    multitrainer cca 30cm od zeme;
-
+                    multitrainer cca 30cm od zeme; cela stredni cast tela a stimuluje mobilitu a silu ramen
+                    Start: paty do multitraneru, rukama oprit o zem (za sebou), zapesti v pohodlen pozici
+                    Start: boky vytlacte nahoru a do opacne pozice, pater a krk zustavaji v jedne rovine
+                    Start: tuto statickou poici drzte bez hnuti
+                    Prubeh: boky klesaji dolu k zemi. Zatlacte je dozadu mezi ruce a halvu dejte ke kolenum.
                 </description>
-                <description locale="cs">prohodit a prelozit</description>            
+                <description locale="cs">
+                    multitrainer cca 30cm od zeme; cela stredni cast tela a stimuluje mobilitu a silu ramen
+                    Start: paty do multitraneru, rukama oprit o zem (za sebou), zapesti v pohodlen pozici
+                    Start: boky vytlacte nahoru a do opacne pozice, pater a krk zustavaji v jedne rovine
+                    Start: tuto statickou poici drzte bez hnuti
+                    Prubeh: boky klesaji dolu k zemi. Zatlacte je dozadu mezi ruce a halvu dejte ke kolenum.
+                </description>            
             </descriptions>
         </exercise>
         <exercise>
             <id>11prednos1</id>
             <names>
-                <name>zdvihy nohou vleze - jedna strana </name>
-                <name locale="cs">zdvihy nohou vleze - jedna strana </name>
+                <name>zdvihy nohou vleze - zacatek jedna strana </name>
+                <name locale="cs">zdvihy nohou vleze - zacatek jedna strana </name>
             </names>
             <images>
                 <image>prednos1.jpg</image>
@@ -271,19 +407,32 @@
             </images>
             <descriptions>
                 <description>
-                    multitrainer cca 30cm od zeme;
-                    Prubeh: diagonalne, obe zaraz,  na stanu dolu
-                    Prubeh: pohybujte se stejnou rychlosti
-                    Prubeh: zastavte v okamziku kdy citite z ebyste namahali pater
+                    multitrainer cca 30cm od zeme; stabilita stredni casti tela, otacivou silu tela ovladat pevnym stredem
+                    Start: leh na zadech, hlava mirne vpredu pred zavesnym bodem
+                    Start: predpazte v uhlu 45stupnu od zeme a zvednete nohy
+                    Start: zpevnete stred tela a ruce v chytech tlacte smerem dolu
+                    Pruneh: zvysujte tlak rukou smerem dolu
+                    Prubeh: obe nohy klesaji diagonalne, obe zaraz,  na stanu dolu, smerem k podlaze
+                    Prubeh: zvednete nohy do pocatecni pozice a zpakujte cvik na druhou stranu
+                    Prubeh: pohybujte se stejnou rychlosti a zastavte pohyb v okamziku kdy citite ze byste namahali pater
                 </description>
-                <description locale="cs">prohodit a prelozit</description>            
+                <description locale="cs">
+                    multitrainer cca 30cm od zeme; stabilita stredni casti tela, otacivou silu tela ovladat pevnym stredem
+                    Start: leh na zadech, hlava mirne vpredu pred zavesnym bodem
+                    Start: predpazte v uhlu 45stupnu od zeme a zvednete nohy
+                    Start: zpevnete stred tela a ruce v chytech tlacte smerem dolu
+                    Pruneh: zvysujte tlak rukou smerem dolu
+                    Prubeh: obe nohy klesaji diagonalne, obe zaraz,  na stanu dolu, smerem k podlaze
+                    Prubeh: zvednete nohy do pocatecni pozice a zpakujte cvik na druhou stranu
+                    Prubeh: pohybujte se stejnou rychlosti a zastavte pohyb v okamziku kdy citite ze byste namahali pater
+                </description>            
             </descriptions>
         </exercise>
         <exercise>
             <id>11prednos2</id>
             <names>
-                <name>zdvihy nohou vleze - druha strana </name>
-                <name locale="cs">zdvihy nohou vleze - druha strana </name>
+                <name>zdvihy nohou vleze - zacatek druha strana </name>
+                <name locale="cs">zdvihy nohou vleze - zacatek druha strana </name>
             </names>
             <images>
                 <image>prednos1.jpg</image>
@@ -291,12 +440,25 @@
             </images>
             <descriptions>
                 <description>
-                    multitrainer cca 30cm od zeme;
-                    Prubeh: diagonalne, obe zaraz,  na stanu dolu
-                    Prubeh: pohybujte se stejnou rychlosti
-                    Prubeh: zastavte v okamziku kdy citite z ebyste namahali pater
+                    multitrainer cca 30cm od zeme; stabilita stredni casti tela, otacivou silu tela ovladat pevnym stredem
+                    Start: leh na zadech, hlava mirne vpredu pred zavesnym bodem
+                    Start: predpazte v uhlu 45stupnu od zeme a zvednete nohy
+                    Start: zpevnete stred tela a ruce v chytech tlacte smerem dolu
+                    Pruneh: zvysujte tlak rukou smerem dolu
+                    Prubeh: obe nohy klesaji diagonalne, obe zaraz,  na stanu dolu, smerem k podlaze
+                    Prubeh: zvednete nohy do pocatecni pozice a zpakujte cvik na druhou stranu
+                    Prubeh: pohybujte se stejnou rychlosti a zastavte pohyb v okamziku kdy citite ze byste namahali pater
                 </description>
-                <description locale="cs">prohodit a prelozit</description>            
+                <description locale="cs">
+                    multitrainer cca 30cm od zeme; stabilita stredni casti tela, otacivou silu tela ovladat pevnym stredem
+                    Start: leh na zadech, hlava mirne vpredu pred zavesnym bodem
+                    Start: predpazte v uhlu 45stupnu od zeme a zvednete nohy
+                    Start: zpevnete stred tela a ruce v chytech tlacte smerem dolu
+                    Pruneh: zvysujte tlak rukou smerem dolu
+                    Prubeh: obe nohy klesaji diagonalne, obe zaraz,  na stanu dolu, smerem k podlaze
+                    Prubeh: zvednete nohy do pocatecni pozice a zpakujte cvik na druhou stranu
+                    Prubeh: pohybujte se stejnou rychlosti a zastavte pohyb v okamziku kdy citite ze byste namahali pater
+                </description>            
             </descriptions>
         </exercise>
         <exercise>
@@ -311,10 +473,25 @@
             </images>
             <descriptions>
                 <description>
-                    multitrainer cca 30cm od zeme;
-
+                    multitrainer cca 30cm od zeme; stimuluje celou stredni cast tela, posiluje brisni svaly, vyzaduje vybornou stabilitu a prekvapivou silu v horni casti tela
+                    Start: nohy polozte do noznich zavesu a zaujmete pozici 
+                    Start: vzpor lezmo na predloktich (zacatecnici) nebo na dlanich (pokrocili)
+                    Start: kostrc je v dnaou chvili nejvyssim bodem tela, llokty jsou v jende primce s hrudnikem
+                    Prubeh: boky udrzujte nahore, nesmi klesat az k zemi
+                    Prubeh: hlavu drzte v rovine a boky vysoko
+                    Prubeh: zvednete boky a pritahnete kolena k hrudniku
+                    Prubeh: Vratte nohy zpet do pocatecni poice
                 </description>
-                <description locale="cs">prohodit a prelozit</description>            
+                <description locale="cs">
+                    multitrainer cca 30cm od zeme; stimuluje celou stredni cast tela, posiluje brisni svaly, vyzaduje vybornou stabilitu a prekvapivou silu v horni casti tela
+                    Start: nohy polozte do noznich zavesu a zaujmete pozici 
+                    Start: vzpor lezmo na predloktich (zacatecnici) nebo na dlanich (pokrocili)
+                    Start: kostrc je v dnaou chvili nejvyssim bodem tela, llokty jsou v jende primce s hrudnikem
+                    Prubeh: boky udrzujte nahore, nesmi klesat az k zemi
+                    Prubeh: hlavu drzte v rovine a boky vysoko
+                    Prubeh: zvednete boky a pritahnete kolena k hrudniku
+                    Prubeh: Vratte nohy zpet do pocatecni poice
+                </description>            
             </descriptions>
         </exercise>
     </exercises-set>
