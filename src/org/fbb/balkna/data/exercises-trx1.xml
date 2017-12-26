@@ -133,16 +133,29 @@
             </images>
         </exercise>
         <exercise>
-            <id>powerpull</id>
+            <id>powerpull1</id>
             <names>
-                <name>power pull</name>
-                <name locale="cs">otocny zatah</name>
+                <name>power pull one side</name>
+                <name locale="cs">otocny zatah - jedna strana</name>
             </names>
             <images>
-                <image>%{id}1.jpg</image>
-                <image>%{id}2.jpg</image>
-                <image>%{id}3.jpg</image>
-                <image>%{id}4.jpg</image>
+                <image>powerpull1.jpg</image>
+                <image>powerpull2.jpg</image>
+                <image>powerpull3.jpg</image>
+                <image>powerpull4.jpg</image>
+            </images>
+        </exercise>
+          <exercise>
+            <id>powerpull2</id>
+            <names>
+                <name>power pull second side</name>
+                <name locale="cs">otocny zatah - druha strana</name>
+            </names>
+            <images>
+                <image>powerpull1.jpg</image>
+                <image>powerpull2.jpg</image>
+                <image>powerpull3.jpg</image>
+                <image>powerpull4.jpg</image>
             </images>
         </exercise>
         <exercise>
