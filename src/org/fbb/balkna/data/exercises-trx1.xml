@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<exercises>
+    <exercises-set>
+        <set-defaults>
+            <time>20</time>
+            <pause>15</pause>
+            <iterations>3</iterations>
+            <rest>60</rest>
+        </set-defaults>
+        <exercise>
+            <id>lowrow</id>
+            <names>
+                <name>low row</name>
+                <name locale="cs">pritahy</name>
+            </names>
+            <images>
+                <image>%{id}1.jpg</image>
+                <image>%{id}2.jpg</image>
+            </images>
+        </exercise>
+        <exercise>
+            <id>atomicpushup</id>
+            <names>
+                <name>atomic push up</name>
+                <name locale="cs">trx shyboklik</name>
+            </names>
+            <images>
+                <image>%{id}1.jpg</image>
+                <image>%{id}2.jpg</image>
+                <image>%{id}3.jpg</image>
+            </images>
+        </exercise>
+        <exercise>
+            <id>bicepscurl</id>
+            <names>
+                <name>biceps curl</name>
+                <name locale="cs">bicepsovy pritah</name>
+            </names>
+            <images>
+                <image>%{id}1.jpg</image>
+                <image>%{id}2.jpg</image>
+            </images>
+        </exercise>
+        <exercise>
+            <id>chestpress</id>
+            <names>
+                <name>chest press</name>
+                <name locale="cs">zaveseny klik</name>
+            </names>
+            <images>
+                <image>%{id}1.jpg</image>
+                <image>%{id}2.jpg</image>
+            </images>
+        </exercise>
+        <exercise>
+            <id>crossbalancelunge</id>
+            <names>
+                <name>crossing balance lunge</name>
+                <name locale="cs">balancni vypad</name>
+            </names>
+            <images>
+                <image>%{id}1.jpg</image>
+                <image>%{id}2.jpg</image>
+            </images>
+        </exercise>
+        <exercise>
+            <id>hamstringcurl</id>
+            <names>
+                <name>hamstring curl</name>
+                <name locale="cs">pritah nohama</name>
+            </names>
+            <images>
+                <image>%{id}1.jpg</image>
+                <image>%{id}2.jpg</image>
+            </images>
+        </exercise>
+        <exercise>
+            <id>hamstringrunner</id>
+            <names>
+                <name>hamstring runner</name>
+                <name locale="cs">beh v leze</name>
+            </names>
+            <images>
+                <image>%{id}1.jpg</image>
+                <image>%{id}2.jpg</image>
+            </images>
+        </exercise>
+        <exercise>
+            <id>hipdrop</id>
+            <names>
+                <name>hip drop</name>
+                <name locale="cs">pokles boku</name>
+            </names>
+            <images>
+                <image>%{id}1.jpg</image>
+                <image>%{id}2.jpg</image>
+            </images>
+        </exercise>
+        <exercise>
+            <id>hippress</id>
+            <names>
+                <name>hip press</name>
+                <name locale="cs">vztlak nohama</name>
+            </names>
+            <images>
+                <image>%{id}1.jpg</image>
+                <image>%{id}2.jpg</image>
+            </images>
+        </exercise>
+        <exercise>
+            <id>lunge</id>
+            <names>
+                <name>lunge</name>
+                <name locale="cs">obraceny balancni vypad</name>
+            </names>
+            <images>
+                <image>%{id}1.jpg</image>
+                <image>%{id}2.jpg</image>
+                <image>%{id}3.jpg</image>
+                <image>%{id}4.jpg</image>
+            </images>
+        </exercise>
+        <exercise>
+            <id>mountainclimber</id>
+            <names>
+                <name>mountain climber</name>
+                <name locale="cs">horochodec</name>
+            </names>
+            <images>
+                <image>%{id}1.jpg</image>
+                <image>%{id}2.jpg</image>
+            </images>
+        </exercise>
+        <exercise>
+            <id>powerpullw</id>
+            <names>
+                <name>power pull</name>
+                <name locale="cs">otocny zatah</name>
+            </names>
+            <images>
+                <image>%{id}1.jpg</image>
+                <image>%{id}2.jpg</image>
+                <image>%{id}3.jpg</image>
+                <image>%{id}4.jpg</image>
+            </images>
+        </exercise>
+        <exercise>
+            <id>sprinterstart</id>
+            <names>
+                <name>sprinter start</name>
+                <name locale="cs">start na sprint</name>
+            </names>
+            <images>
+                <image>%{id}1.jpg</image>
+                <image>%{id}2.jpg</image>
+            </images>
+        </exercise>
+        <exercise>
+            <id>standingrollout</id>
+            <names>
+                <name>standing rollout</name>
+                <name locale="cs">stoj-leh</name>
+            </names>
+            <images>
+                <image>%{id}1.jpg</image>
+                <image>%{id}2.jpg</image>
+            </images>
+        </exercise>
+        <exercise>
+            <id>tricepspress</id>
+            <names>
+                <name>tricepsa press</name>
+                <name locale="cs">tricepsovy tlak</name>
+            </names>
+            <images>
+                <image>%{id}1.jpg</image>
+                <image>%{id}2.jpg</image>
+            </images>
+        </exercise>
+    </exercises-set>
+</exercises>
