@@ -118,6 +118,32 @@
                     </overrides>
                 </exercise>    
             </exercises-set>
+            <exercises-set count="2">
+                <overrides>
+                    <time>20</time>
+                    <pause>15</pause>
+                    <iterations>1</iterations>
+                    <rest>15</rest>
+                </overrides>
+                <exercise>
+                    <id>standingrollout</id>
+                </exercise>    
+                <exercise>
+                    <id>hipdrop</id>
+                </exercise>    
+                <exercise>
+                    <id>mountainclimber</id>
+                </exercise>    
+                <exercise>
+                    <id>hamstringrunner</id>
+                </exercise> 
+                <exercise>
+                    <id>atomicpushup</id>
+                    <overrides>
+                        <rest>60</rest>
+                    </overrides>
+                </exercise> 
+            </exercises-set>
         </exercises>    
     </training>
 </trainings>

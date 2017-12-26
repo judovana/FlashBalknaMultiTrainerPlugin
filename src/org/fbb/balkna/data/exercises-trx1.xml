@@ -107,6 +107,14 @@
                 <image>%{id}1.jpg</image>
                 <image>%{id}2.jpg</image>
             </images>
+            <descriptions>
+                <description>
+                    dont forget to change sides afer each move
+                </description>
+                <description locale="cs">
+                    stridave prave/leve
+                </description>            
+            </descriptions>
         </exercise>
         <exercise>
             <id>hippress</id>
