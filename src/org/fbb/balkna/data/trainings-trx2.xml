@@ -36,7 +36,7 @@
                     <time>30</time>
                     <pause>20</pause>
                     <iterations>1</iterations>
-                    <rest>15</rest>
+                    <rest>20</rest>
                 </overrides>
                 <exercise>
                     <id>lowrow</id>
@@ -70,7 +70,7 @@
                     <time>30</time>
                     <pause>20</pause>
                     <iterations>1</iterations>
-                    <rest>15</rest>
+                    <rest>20</rest>
                 </overrides>
                 <exercise>
                     <id>sprinterstart1</id>
@@ -123,7 +123,7 @@
                     <time>30</time>
                     <pause>20</pause>
                     <iterations>1</iterations>
-                    <rest>15</rest>
+                    <rest>20</rest>
                 </overrides>
                 <exercise>
                     <id>standingrollout</id>
