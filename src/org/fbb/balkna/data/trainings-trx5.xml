@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<trainings>
+    <training>
+        <id>trxcz2</id>
+        <names>
+            <name>trx system 30minutes  trx trenink</name>
+            <name locale="cs">trxsystem.cz 30minutovy domaci trx trenink</name>
+        </names>
+        <descriptions>
+            <description>
+                30 minutový univerzální trénink
+                Připraveni? Jdeme na to. V tréninkové rutině uvedené níže, posílíte celé tělo v mnoha rovinách pohybu pomocí vysoce integrovaných pohybů. 
+                Intenzitu u každého cviku můžete modifikovat výběrem postavení, volbou úhlů a postupů při cvičení. U začátečníků doporučujeme zvolení menších úhlů. Můžete také prodlužovat pracovní intervaly, zkracovat odpočinkové intervaly nebo zvyšovat nároky na kardiovaskulární systém. 
+                Cyklus zobrazený níže trvá přibližně 30 minut a je rozdělen na 3 kola.  Opakujte každé kolo tréninku 2x před přechodem na další. 
+                Začínáme
+                Před jakoukoliv fyzickou aktivitou je třeba se dostatečně rozcvičit. Rozcvička slouží k adaptaci celého těla na fyzickou zátěž a náročnější výkon. Rozcvičce se také říká anglicky warm-up, což znamená i zahřívání nebo zahřátí. 
+                Jde o to, vyprodukovat v těle a ve svalech teplo. Tato fáze je nezbytnou součástí každého tréninku. Lepší pružnost a pohyblivost těla může pomoci snížit riziko zranění. Dnešní trend dynamického protažení je snahou dělat všechny cviky v pohybu, namísto pouhého statického protahování. 
+            </description>
+            <description locale="cs">
+                30 minutový univerzální trénink
+                Připraveni? Jdeme na to. V tréninkové rutině uvedené níže, posílíte celé tělo v mnoha rovinách pohybu pomocí vysoce integrovaných pohybů. 
+                Intenzitu u každého cviku můžete modifikovat výběrem postavení, volbou úhlů a postupů při cvičení. U začátečníků doporučujeme zvolení menších úhlů. Můžete také prodlužovat pracovní intervaly, zkracovat odpočinkové intervaly nebo zvyšovat nároky na kardiovaskulární systém. 
+                Cyklus zobrazený níže trvá přibližně 30 minut a je rozdělen na 3 kola.  Opakujte každé kolo tréninku 2x před přechodem na další. 
+                Začínáme
+                Před jakoukoliv fyzickou aktivitou je třeba se dostatečně rozcvičit. Rozcvička slouží k adaptaci celého těla na fyzickou zátěž a náročnější výkon. Rozcvičce se také říká anglicky warm-up, což znamená i zahřívání nebo zahřátí. 
+                Jde o to, vyprodukovat v těle a ve svalech teplo. Tato fáze je nezbytnou součástí každého tréninku. Lepší pružnost a pohyblivost těla může pomoci snížit riziko zranění. Dnešní trend dynamického protažení je snahou dělat všechny cviky v pohybu, namísto pouhého statického protahování. 
+            </description>            
+        </descriptions>
+        <images>
+            <image>trxsystemtitle.png</image>
+        </images>
+        <exercises>
+            <exercises-set count="2">
+                <overrides>
+                    <time>60</time>
+                    <pause>29</pause>
+                    <iterations>1</iterations>
+                    <rest>29</rest>
+                </overrides>
+                <exercise>
+                    <id>lowrow</id>
+                </exercise>    
+                <exercise>
+                    <id>chestpress</id>
+                </exercise>    
+                <exercise>
+                    <id>bicepscurl</id>
+                </exercise>    
+                <exercise>
+                    <id>tricepspress</id>
+                </exercise> 
+                <exercise>
+                    <id>powerpull1</id>
+                    <overrides>
+                        <time>30</time>
+                        <pause>5</pause>
+                    </overrides>
+                </exercise> 
+                <exercise>
+                    <id>powerpull2</id>
+                    <overrides>
+                        <time>30</time>
+                        <rest>90</rest>
+                    </overrides>
+                </exercise>    
+            </exercises-set>
+            <exercises-set count="2">
+                <overrides>
+                    <time>60</time>
+                    <pause>29</pause>
+                    <iterations>1</iterations>
+                    <rest>29</rest>
+                </overrides>
+                <exercise>
+                    <id>sprinterstart1</id>
+                    <overrides>
+                        <time>30</time>
+                        <pause>5</pause>
+                    </overrides>
+                </exercise>    
+                <exercise>
+                    <id>sprinterstart2</id>
+                    <overrides>
+                        <time>30</time>
+                    </overrides>
+                </exercise>    
+                <exercise>
+                    <id>hamstringcurl</id>
+                </exercise>    
+                <exercise>
+                    <id>lunge1</id>
+                    <overrides>
+                        <time>30</time>
+                        <pause>5</pause>
+                    </overrides>
+                </exercise> 
+                <exercise>
+                    <id>lunge2</id>
+                    <overrides>
+                        <time>30</time>
+                    </overrides>
+                </exercise> 
+                <exercise>
+                    <id>hippress</id>
+                </exercise>  
+                <exercise>
+                    <id>crossbalancelunge1</id>
+                    <overrides>
+                        <time>30</time>
+                    </overrides>
+                </exercise> 
+                <exercise>
+                    <id>crossbalancelunge2</id>
+                    <overrides>
+                        <time>30</time>
+                        <rest>90</rest>
+                    </overrides>
+                </exercise>    
+            </exercises-set>
+            <exercises-set count="2">
+                <overrides>
+                    <time>60</time>
+                    <pause>29</pause>
+                    <iterations>1</iterations>
+                    <rest>29</rest>
+                </overrides>
+                <exercise>
+                    <id>standingrollout</id>
+                </exercise>    
+                <exercise>
+                    <id>hipdrop</id>
+                </exercise>    
+                <exercise>
+                    <id>mountainclimber</id>
+                </exercise>    
+                <exercise>
+                    <id>hamstringrunner</id>
+                </exercise> 
+                <exercise>
+                    <id>atomicpushup</id>
+                    <overrides>
+                        <rest>90</rest>
+                    </overrides>
+                </exercise> 
+            </exercises-set>
+        </exercises>    
+    </training>
+</trainings>
