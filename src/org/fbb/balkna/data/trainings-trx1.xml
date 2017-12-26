@@ -54,10 +54,64 @@
                     <id>powerpull1</id>
                     <overrides>
                         <time>10</time>
+                        <pause>5</pause>
                     </overrides>
                 </exercise> 
                 <exercise>
                     <id>powerpull2</id>
+                    <overrides>
+                        <time>10</time>
+                        <rest>60</rest>
+                    </overrides>
+                </exercise>    
+            </exercises-set>
+            <exercises-set count="2">
+                <overrides>
+                    <time>20</time>
+                    <pause>15</pause>
+                    <iterations>1</iterations>
+                    <rest>15</rest>
+                </overrides>
+                <exercise>
+                    <id>sprinterstart1</id>
+                    <overrides>
+                        <time>10</time>
+                        <pause>5</pause>
+                    </overrides>
+                </exercise>    
+                <exercise>
+                    <id>sprinterstart2</id>
+                    <overrides>
+                        <time>10</time>
+                    </overrides>
+                </exercise>    
+                <exercise>
+                    <id>hamstringcurl</id>
+                </exercise>    
+                <exercise>
+                    <id>lunge1</id>
+                    <overrides>
+                        <time>10</time>
+                        <pause>5</pause>
+                    </overrides>
+                </exercise> 
+                <exercise>
+                    <id>lunge2</id>
+                    <overrides>
+                        <time>10</time>
+                    </overrides>
+                </exercise> 
+                <exercise>
+                    <id>hippress</id>
+                </exercise>  
+                <exercise>
+                    <id>crossbalancelunge1</id>
+                    <overrides>
+                        <time>10</time>
+                    </overrides>
+                </exercise> 
+                <exercise>
+                    <id>crossbalancelunge2</id>
                     <overrides>
                         <time>10</time>
                         <rest>60</rest>

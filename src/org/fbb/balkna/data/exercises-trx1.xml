@@ -54,14 +54,25 @@
             </images>
         </exercise>
         <exercise>
-            <id>crossbalancelunge</id>
+            <id>crossbalancelunge1</id>
             <names>
-                <name>crossing balance lunge</name>
-                <name locale="cs">balancni vypad</name>
+                <name>crossing balance lunge - first leg</name>
+                <name locale="cs">balancni vypad - jedna noha</name>
             </names>
             <images>
-                <image>%{id}1.jpg</image>
-                <image>%{id}2.jpg</image>
+                <image>crossbalancelunge1.jpg</image>
+                <image>crossbalancelunge2.jpg</image>
+            </images>
+        </exercise>
+        <exercise>
+            <id>crossbalancelunge2</id>
+            <names>
+                <name>crossing balance lunge - second leg</name>
+                <name locale="cs">balancni vypad- druha noha</name>
+            </names>
+            <images>
+                <image>crossbalancelunge1.jpg</image>
+                <image>crossbalancelunge2.jpg</image>
             </images>
         </exercise>
         <exercise>
@@ -109,16 +120,25 @@
             </images>
         </exercise>
         <exercise>
-            <id>lunge</id>
+            <id>lunge1</id>
             <names>
-                <name>lunge</name>
-                <name locale="cs">obraceny balancni vypad</name>
+                <name>lunge one leg </name>
+                <name locale="cs">obraceny balancni vypad - jedna noha</name>
             </names>
             <images>
-                <image>%{id}1.jpg</image>
-                <image>%{id}2.jpg</image>
-                <image>%{id}3.jpg</image>
-                <image>%{id}4.jpg</image>
+                <image>lunge1.jpg</image>
+                <image>lunge2.jpg</image>
+            </images>
+        </exercise>
+        <exercise>
+            <id>lunge2</id>
+            <names>
+                <name>lunge second leg</name>
+                <name locale="cs">obraceny balancni vypad - druha noha</name>
+            </names>
+            <images>
+                <image>lunge3.jpg</image>
+                <image>lunge4.jpg</image>
             </images>
         </exercise>
         <exercise>
@@ -141,32 +161,39 @@
             <images>
                 <image>powerpull1.jpg</image>
                 <image>powerpull2.jpg</image>
-                <image>powerpull3.jpg</image>
-                <image>powerpull4.jpg</image>
             </images>
         </exercise>
-          <exercise>
+        <exercise>
             <id>powerpull2</id>
             <names>
                 <name>power pull second side</name>
                 <name locale="cs">otocny zatah - druha strana</name>
             </names>
             <images>
-                <image>powerpull1.jpg</image>
-                <image>powerpull2.jpg</image>
                 <image>powerpull3.jpg</image>
                 <image>powerpull4.jpg</image>
             </images>
         </exercise>
         <exercise>
-            <id>sprinterstart</id>
+            <id>sprinterstart1</id>
             <names>
-                <name>sprinter start</name>
-                <name locale="cs">start na sprint</name>
+                <name>sprinter start - one side</name>
+                <name locale="cs">start na sprint - jedna noha</name>
             </names>
             <images>
-                <image>%{id}1.jpg</image>
-                <image>%{id}2.jpg</image>
+                <image>sprinterstart1.jpg</image>
+                <image>sprinterstart2.jpg</image>
+            </images>
+        </exercise>
+        <exercise>
+            <id>sprinterstart2</id>
+            <names>
+                <name>sprinter start - second side</name>
+                <name locale="cs">start na sprint - druha noha</name>
+            </names>
+            <images>
+                <image>sprinterstart1.jpg</image>
+                <image>sprinterstart2.jpg</image>
             </images>
         </exercise>
         <exercise>
