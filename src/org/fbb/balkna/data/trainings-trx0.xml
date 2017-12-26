@@ -54,7 +54,7 @@
                     <id>powerpull1</id>
                     <overrides>
                         <time>5</time>
-                        <pause>5</pause>
+                        <rest>5</rest>
                     </overrides>
                 </exercise> 
                 <exercise>
@@ -76,7 +76,7 @@
                     <id>sprinterstart1</id>
                     <overrides>
                         <time>5</time>
-                        <pause>5</pause>
+                        <rest>5</rest>
                     </overrides>
                 </exercise>    
                 <exercise>
@@ -92,7 +92,7 @@
                     <id>lunge1</id>
                     <overrides>
                         <time>5</time>
-                        <pause>5</pause>
+                        <rest>5</rest>
                     </overrides>
                 </exercise> 
                 <exercise>
@@ -108,6 +108,7 @@
                     <id>crossbalancelunge1</id>
                     <overrides>
                         <time>5</time>
+                        <rest>5</rest>
                     </overrides>
                 </exercise> 
                 <exercise>

@@ -4,8 +4,13 @@
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group/>
         <group name="tools">
-            <file>file:/home/jvanek/git/FlashBalknaMultiTrainerPlugin/src/org/fbb/balkna/data/trainings-multitrainer01.xml</file>
-            <file>file:/home/jvanek/git/FlashBalknaMultiTrainerPlugin/src/org/fbb/balkna/data/exercises-multitrainer1.xml</file>
+            <file>file:/home/jvanek/git/FlashBalknaMultiTrainerPlugin/src/org/fbb/balkna/data/trainings-trx2.xml</file>
+            <file>file:/home/jvanek/git/FlashBalknaMultiTrainerPlugin/src/org/fbb/balkna/data/trainings-trx5.xml</file>
+            <file>file:/home/jvanek/git/FlashBalknaMultiTrainerPlugin/src/org/fbb/balkna/data/exercises-trx1.xml</file>
+            <file>file:/home/jvanek/git/FlashBalknaMultiTrainerPlugin/src/org/fbb/balkna/data/trainings-trx0.xml</file>
+            <file>file:/home/jvanek/git/FlashBalknaMultiTrainerPlugin/src/org/fbb/balkna/data/trainings-trx1.xml</file>
+            <file>file:/home/jvanek/git/FlashBalknaMultiTrainerPlugin/src/org/fbb/balkna/data/trainings-trx3.xml</file>
+            <file>file:/home/jvanek/git/FlashBalknaMultiTrainerPlugin/src/org/fbb/balkna/data/trainings-trx4.xml</file>
         </group>
     </open-files>
 </project-private>
