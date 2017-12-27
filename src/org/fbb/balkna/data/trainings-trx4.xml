@@ -130,7 +130,17 @@
                     <id>standingrollout</id>
                 </exercise>    
                 <exercise>
-                    <id>hipdrop</id>
+                    <id>hipdrop1</id>
+                    <overrides>
+                        <time>25</time>
+                        <rest>5</rest>
+                    </overrides>
+                </exercise> 
+                <exercise>
+                    <id>hipdrop2</id>
+                    <overrides>
+                        <time>25</time>
+                    </overrides>
                 </exercise>    
                 <exercise>
                     <id>mountainclimber</id>
