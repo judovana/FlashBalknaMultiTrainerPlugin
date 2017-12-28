@@ -4,8 +4,8 @@
     <training>
         <id>trxcz1</id>
         <names>
-            <name>trx system 30minutes  trx trenink 20/15</name>
-            <name locale="cs">trxsystem.cz 30minutovy domaci trx trenink 20/15</name>
+            <name>trx system 30minutes  trx trenink 20/14</name>
+            <name locale="cs">trxsystem.cz 30minutovy domaci trx trenink 20/14</name>
         </names>
         <descriptions>
             <description>
@@ -34,9 +34,9 @@
             <exercises-set count="2">
                 <overrides>
                     <time>20</time>
-                    <pause>15</pause>
+                    <pause>14</pause>
                     <iterations>1</iterations>
-                    <rest>15</rest>
+                    <rest>14</rest>
                 </overrides>
                 <exercise>
                     <id>lowrow</id>
@@ -68,9 +68,9 @@
             <exercises-set count="2">
                 <overrides>
                     <time>20</time>
-                    <pause>15</pause>
+                    <pause>14</pause>
                     <iterations>1</iterations>
-                    <rest>15</rest>
+                    <rest>14</rest>
                 </overrides>
                 <exercise>
                     <id>sprinterstart1</id>
@@ -122,9 +122,9 @@
             <exercises-set count="2">
                 <overrides>
                     <time>20</time>
-                    <pause>15</pause>
+                    <pause>14</pause>
                     <iterations>1</iterations>
-                    <rest>15</rest>
+                    <rest>14</rest>
                 </overrides>
                 <exercise>
                     <id>standingrollout</id>

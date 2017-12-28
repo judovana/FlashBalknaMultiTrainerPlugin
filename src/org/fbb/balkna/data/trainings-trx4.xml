@@ -4,8 +4,8 @@
     <training>
         <id>trxcz4</id>
         <names>
-            <name>trx system 38minutes  trx trenink 50/27</name>
-            <name locale="cs">trxsystem.cz 38minutovy domaci trx trenink 50/27</name>
+            <name>trx system 45minutes  trx trenink 50/19</name>
+            <name locale="cs">trxsystem.cz 38minutovy domaci trx trenink 50/19</name>
         </names>
         <descriptions>
             <description>
@@ -34,9 +34,9 @@
             <exercises-set count="2">
                 <overrides>
                     <time>50</time>
-                    <pause>27</pause>
+                    <pause>19</pause>
                     <iterations>1</iterations>
-                    <rest>27</rest>
+                    <rest>19</rest>
                 </overrides>
                 <exercise>
                     <id>lowrow</id>
@@ -61,16 +61,16 @@
                     <id>powerpull2</id>
                     <overrides>
                         <time>25</time>
-                        <rest>90</rest>
+                        <rest>80</rest>
                     </overrides>
                 </exercise>    
             </exercises-set>
             <exercises-set count="2">
                 <overrides>
                     <time>50</time>
-                    <pause>27</pause>
+                    <pause>19</pause>
                     <iterations>1</iterations>
-                    <rest>27</rest>
+                    <rest>19</rest>
                 </overrides>
                 <exercise>
                     <id>sprinterstart1</id>
@@ -115,16 +115,16 @@
                     <id>crossbalancelunge2</id>
                     <overrides>
                         <time>25</time>
-                        <rest>90</rest>
+                        <rest>80</rest>
                     </overrides>
                 </exercise>    
             </exercises-set>
             <exercises-set count="2">
                 <overrides>
                     <time>50</time>
-                    <pause>27</pause>
+                    <pause>19</pause>
                     <iterations>1</iterations>
-                    <rest>27</rest>
+                    <rest>19</rest>
                 </overrides>
                 <exercise>
                     <id>standingrollout</id>
@@ -151,7 +151,7 @@
                 <exercise>
                     <id>atomicpushup</id>
                     <overrides>
-                        <rest>90</rest>
+                        <rest>80</rest>
                     </overrides>
                 </exercise> 
             </exercises-set>
