@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<trainings>
+    <training>
+        <id>sasa1</id>
+        <names>
+            <name>sasa's set</name>
+            <name locale="cs">sasova sestava</name>
+        </names>
+        <descriptions>
+            <description>
+                no-legs training. 2-3x per week.  For maximal imapct, two times in week, 5km hilly run recomended to be added
+            </description>
+            <description locale="cs">
+                trenink bez cviku na nohy. Cvicte 2-3x tydne. Pro maximalni ucinost pridejte cirka 2x tydne 5km kopcoviteho behu
+            </description>            
+        </descriptions>
+        <images>
+            <image>sasa1.jpg</image>
+        </images>
+        <exercises>
+            <exercises-set count="4">
+                <overrides>
+                    <time>20</time>
+                    <pause>20</pause>
+                    <iterations>1</iterations>
+                    <rest>20</rest>
+                </overrides>
+                <exercise>
+                    <id>sasa-siroky-klik</id>
+                </exercise>    
+                <exercise>
+                    <id>sasa-vesla-vodorovne</id>
+                </exercise>    
+                <exercise>
+                    <id>sasa-prkno</id>
+                </exercise>    
+                <exercise>
+                    <id>sasa-prdelup</id>
+                </exercise> 
+                <exercise>
+                    <id>sasa-kozystroj</id>
+                </exercise>
+                <exercise>
+                    <id>sasa-bical</id>
+                </exercise> 
+                <exercise>
+                    <id>sasa-ukrajina</id>
+                </exercise>  
+                <exercise>
+                    <id>sasa-mountainfrog</id>
+                    <overrides>
+                        <rest>90</rest>
+                    </overrides>
+                </exercise>    
+            </exercises-set>
+        </exercises>    
+    </training>
+</trainings>

@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<exercises>
+    <exercises-set>
+        <set-defaults>
+            <time>30</time>
+            <pause>20</pause>
+            <iterations>1</iterations>
+            <rest>20</rest>
+        </set-defaults>
+        <exercise>
+            <id>sasa-siroky-klik</id>
+            <names>
+                <name>wide push up</name>
+                <name locale="cs">siroky klik</name>
+            </names>
+            <images>
+                <image>klik1.jpg</image>
+                <image>klik2.jpg</image>
+            </images>
+            <descriptions>
+                <description>
+                    Wide pushup - good idea is to have legs in same height as end of trx and thus strt nearly horizontaly
+                </description>
+                <description locale="cs">
+                    Siroky klik, zajimave je dat nohy nas zem - stolicka, rypstol - a zacit temer vodorovne
+                </description>            
+            </descriptions>
+        </exercise>
+        <exercise>
+            <id>sasa-vesla-vodorovne</id>
+            <names>
+                <name>rowing with fists up</name>
+                <name locale="cs">vesla s pestmi otocenyi nahoru</name>
+            </names>
+            <images>
+                <image>pritah-v-1.jpg</image>
+                <image>pritah-v-2.jpg</image>
+            </images>
+            <descriptions>
+                <description>
+                    hands straight, fists up, pull towards body, fists still up. Variant is karate punch, when fits are down, but when pulling rotate, so at the end, fists are up.
+                </description>
+                <description locale="cs">
+                    ruce natazene, s pestmi nahoru. Pritahneme je kbokum, pesti stale nahoru. Varianta je karatistikcy uder, kdy jou pesti dolu, ale pri pritahu je otacime a utela jsou pak pestmi nahoru                
+                </description>            
+            </descriptions>
+        </exercise>
+        
+        <exercise>
+            <id>sasa-prkno</id>
+            <names>
+                <name>standing rollout</name>
+                <name locale="cs">prkno</name>
+            </names>
+            <images>
+                <image>standingrollout1.jpg</image>
+                <image>standingrollout2.jpg</image>
+            </images>
+            <descriptions>
+                <description>
+                    you stay, hands in right angle. then - via shoulders - hads go up untill you lie with stright hands above your head
+                </description>
+                <description locale="cs">
+                    stojime ruce kolmo na telo dolu. Pak - otacenimjen v ramneec, si lehakme ruce jdou nahoru az lezime
+                </description>            
+            </descriptions>
+        </exercise>
+        <exercise>
+            <id>sasa-prdelup</id>
+            <names>
+                <name>stright atomic</name>
+                <name locale="cs">rovne prdel nahoru</name>
+            </names>
+            <images>
+                <image>rovnejClimber1.jpg</image>
+                <image>rovnejClimber2.jpg</image>
+            </images>
+            <descriptions>
+                <description>
+                    stright, start, then by stomach tense break in the stomach and - with strigth legs - go with toes as close to pams as possible
+                </description>
+                <description locale="cs">
+                    zaciname rovne, nohy zaveseny, pak jde prdel nahoru, nohy rovny, ohyubame se v pase, spicky k dlanim
+                </description>            
+            </descriptions>
+        </exercise>
+        <exercise>
+            <id>sasa-kozystroj</id>
+            <names>
+                <name>stright chest press</name>
+                <name locale="cs">kozystroj</name>
+            </names>
+            <images>
+                <image>klik1.jpg</image>
+                <image>klik3.jpg</image>
+            </images>
+            <descriptions>
+                <description>
+                    start as in pull up, but tehn going without bending elbows
+                </description>
+                <description locale="cs">
+                    podobne jako siroky klik, ale neohybame lokty
+                </description>            
+            </descriptions>
+        </exercise>
+        <exercise>
+            <id>sasa-bical</id>
+            <names>
+                <name>biceps pull</name>
+                <name locale="cs">bical</name>
+            </names>
+            <images>
+                <image>biceps1.jpg</image>
+                <image>biceps2.jpg</image>
+                <image>bicepscurl1.jpg</image>
+                <image>bicepscurl2.jpg</image>
+            </images>
+            <descriptions>
+                <description>
+                    biceps curl
+                </description>
+                <description locale="cs">
+                    stredni delka; pevnost celeho tela a bicepsove svaly
+                    Start: naklonte se dozadu, ruce natazene v siri ramen
+                    Start: lokty drzte vysoko
+                    Start: apojte stredni cast tela a dzte telo v jedne primce
+                    Prubeh: lokty drzte vysoko a pritahujte k drzadlum
+                    Prubeh: v nejvyssim bbode pohybu budou drzadla TRX v linii s celem
+                    Prubeh: horni cast ramen se nehybe , telo drzte porad v jedne primce
+                </description>            
+            </descriptions>
+        </exercise>
+        <exercise>
+            <id>sasa-ukrajina</id>
+            <names>
+                <name>triceps full push up</name>
+                <name locale="cs">ukrainskej pashyb</name>
+            </names>
+            <images>
+                <image>ukrajina1.jpg</image>
+                <image>ukrajina2.jpg</image>
+                <image>ukrajina3.jpg</image>
+            </images>
+            <descriptions>
+                <description>
+                    hands in right angle ahed of face, pulling, and when close to body, pushe them down and end in the dead zone
+                </description>
+                <description locale="cs">
+                    natazene ruce, pritahujeme a jak jsou utela, protlacime az prakticky zasebe
+                </description>            
+            </descriptions>
+        </exercise>
+        <exercise>
+            <id>sasa-mountainfrog</id>
+            <names>
+                <name>paralel mountain climber</name>
+                <name locale="cs">horska zaba</name>
+            </names>
+            <images>
+                <image>mountainclimber1.jpg</image>
+                <image>mountainclimber3.jpg</image>
+            </images>
+            <descriptions>
+                <description>
+                    legs in trx, body horizontal, pulling both knees togehter to head
+                </description>
+                <description locale="cs">
+                    nohy v trx, telo vodorovne, kolena ohybame k hlave
+                </description>            
+            </descriptions>
+        </exercise>
+    </exercises-set>
+</exercises>
